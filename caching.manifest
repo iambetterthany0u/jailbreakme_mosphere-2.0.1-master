@@ -1,0 +1,26 @@
+CACHE MANIFEST
+# This is a comment.
+# Cache manifest version 0.0.6
+# If you change the version number in this comment,
+# the cache manifest is no longer byte-for-byte
+# identical.
+./index.php
+./style.css
+./modular.js
+./assets/wallpaper3.png
+./splash4.png
+
+
+
+
+
+ 
+NETWORK:
+# All URLs that start with the following lines
+# are whitelisted.
+ 
+CACHE:
+# Additional items to cache
+
+ 
+FALLBACK:
